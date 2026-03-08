@@ -75,6 +75,57 @@ Result:
 - Professional email templates
 - Resume optimization tips
 - Interview preparation topics
- 
-Free AI-powered task automation platform for students across India.# nisa-agent-ai
+
+ ## 🏗 System Architecture
+
+AGENT NISA AI uses a multi-agent architecture where specialized agents collaborate
+to analyze student requests, perform research, generate content, and deliver
+structured results.
+
+          Student Request
+                 │
+                 ▼
+         Controller Agent
+      (Task Planning & Workflow)
+                 │
+                 ▼
+           Research Agent
+        (Information Gathering)
+                 │
+                 ▼
+           Content Agent
+        (Generate Deliverables)
+                 │
+                 ▼
+            Career Agent
+      (Internship & Job Support)
+                 │
+                 ▼
+          Evaluation Agent
+        (Quality Verification)
+                 │
+                 ▼
+         Automation Agent
+      (Compile Final Results)
+                 │
+                 ▼
+          Student Output
+
+          ## 🛣 Roadmap
+
+Future development plans for AGENT NISA AI:
+
+- Student dashboard interface
+- Automated internship discovery
+- Browser automation agent
+- Integration with productivity tools
+- Mobile-friendly interface
+
+  Free AI-powered task automation platform for students across India.# nisa-agent-ai
 AGENT NISA AI – A completely free AI-powered multi-agent assistant helping students automate internships, study tasks, emails, and productivity workflows.
+
+## 👩‍💻 Author
+
+**G. Pavani**  
+B.Tech CSE (AI & ML) Student  
+Sir Padampat Singhania University
