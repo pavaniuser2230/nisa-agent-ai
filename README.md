@@ -48,6 +48,33 @@ Future improvements for AGENT NISA AI:
 - Productivity integrations
 - Mobile access
 
+## 🚀 Live Demo
+
+A live demo of **AGENT NISA AI** will be available soon.
+
+The platform will allow students to submit requests such as:
+
+- finding internships
+- generating professional emails
+- creating LinkedIn posts
+- organizing study plans
+- summarizing research papers
+
+Stay tuned for the public demo release.
+
+## 💡 Example Request
+
+Task Type: Career Support  
+Content Type: Internship List  
+
+Request:
+Find beginner-friendly AI/ML internships in India and generate professional application messages.
+
+Result:
+- Curated internship opportunities
+- Professional email templates
+- Resume optimization tips
+- Interview preparation topics
  
 Free AI-powered task automation platform for students across India.# nisa-agent-ai
 AGENT NISA AI – A completely free AI-powered multi-agent assistant helping students automate internships, study tasks, emails, and productivity workflows.
